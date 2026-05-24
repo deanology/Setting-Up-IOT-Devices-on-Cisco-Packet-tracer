@@ -34,7 +34,7 @@ Home Gateway acts as the central controller connecting all IoT devices and the u
 
 ### 1. Home Gateway Configuration
 
-- SSID: HomeNet  
+- SSID: HomeIoT  
 - Security: WPA2-PSK  
 - Password: cisco123  
 - DHCP enabled  
@@ -59,7 +59,7 @@ All smart devices successfully connected to the network:
 - Humidifier  
 - Lawn Sprinkler  
 
-Devices show active (green) status when connected.
+Devices show wifi signal connected to the home gateway.
 
 ![IoT Devices Connected](screenshots/devices.png)
 
