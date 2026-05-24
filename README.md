@@ -61,7 +61,7 @@ All smart devices successfully connected to the network:
 
 Devices show wifi signal connected to the home gateway.
 
-![IoT Devices Connected](screenshots/devices.png)
+![IoT Devices Connected](screenshots/topology.png)
 
 ---
 
