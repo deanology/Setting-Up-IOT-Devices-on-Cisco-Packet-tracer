@@ -96,7 +96,7 @@ Devices were controlled in real time from the laptop interface.
 
 Smart-Home-IoT-System/
 - README.md  
-- project.pkt  
+- IOT.pkt  
 - screenshots/  
   - topology.png  
   - gateway.png  
