@@ -122,14 +122,7 @@ Software Engineering (Java/.Net)
 
 ---
 
-### 🌿 Phase 2 Expansion: Environmental Controls
-This project also implements an automated climate containment loop by exploiting Packet Tracer's Physical Environmental Simulation Engine. 
-
-* **Too Hot Rule**: Triggered when ambient temperature exceeds 30°C. Sets the Ceiling Fan to HIGH.
-* **Too Cold Rule**: Triggered when ambient temperature drops below 15°C. Sets the Ceiling Fan to OFF.
-
-<!-- ADD YOUR PHYSICAL ENVIRONMENT GRAPH SCREENSHOT HERE -->
-![Environmental Controls Dashboard](images/environmental-graphs.png)
+## Status
 
 ✔ Completed Simulation  
 ✔ Fully Functional Smart Home IoT System  
